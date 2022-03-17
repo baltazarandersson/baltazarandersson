@@ -7,6 +7,6 @@
 
 #### ----------
 
-#### My name is Baltazar and Im 19, currently im studying Frontend web Development 💻 on the [Javascript school of Platzi](https://platzi.com/escuela-javascript/).
+#### My name is Baltazar and i'm 19, currently i'm studying Frontend web Development 💻 on the [Javascript school of Platzi](https://platzi.com/escuela-javascript/).
 #### Here I will post some of my main projects on the learning path that this world of development leads
 
